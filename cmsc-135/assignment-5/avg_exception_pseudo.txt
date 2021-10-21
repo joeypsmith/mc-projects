@@ -1,0 +1,17 @@
+Assignment 5_2 Psuedo Code
+Programmer: Joseph Smith
+
+Declare sum, num and avg variables and initialize to 0
+
+Try to Open file and set to object. If not available, print error message and skip to end
+
+Try to loop through each line in file object. If certain line is not an integer, print error message and skip to end
+    Add integer to sum
+    Increment number of integers by 1
+
+If no exception errors
+    Calculate average using given variables
+
+    Print average
+
+End program with user input. Exceptions skip to this line
